@@ -1,4 +1,6 @@
 # umg-newsletter-email-template
-Stracture has been created
-Styles are in-progress
-ejs or handlebars support should be implement
+1.Stracture has been created
+
+2.Styles are in-progress
+
+3.ejs or handlebars support should be implement
