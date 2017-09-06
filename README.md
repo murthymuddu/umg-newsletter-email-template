@@ -1,0 +1,1 @@
+# umg-newsletter-email-template
